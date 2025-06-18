@@ -39,8 +39,8 @@
 
   <section>
     <h2>Contact</h2>
-    <p>Email: your.email@example.com</p>
-    <p>LinkedIn: linkedin.com/in/yourprofile</p>
+    <p>Email: your.sarthakawaathi99@gmail.com</p>
+    <p>LinkedIn: https://www.linkedin.com/in/sarthak-awasthi-331204334?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app</p>
   </section>
 </body>
 </html>
